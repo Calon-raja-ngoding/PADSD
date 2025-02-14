@@ -34,7 +34,7 @@ Disini ada 3 step utama:
 ## 2.3. Perulangan
 
 
-![Screenshot](Screenshot 2025-02-14 154609)
+![Screenshot](Screenshot 2025-02-14 154609.png)
 
 **Penjelesan singkat:** 
 Disini ada 4 step utama: 
