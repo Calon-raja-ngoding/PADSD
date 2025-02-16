@@ -31,7 +31,7 @@ Disini ada 3 step utama:
 2. Mengambil 2 angka terkhir dari NIM
 3. Menampilankan angka 1 sampai 2 angka yg diatas dengan ketentuan yg terdapat
 
-## 2.3. Perulangan
+## 2.3. Array
 
 
 ![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20154609.png)
@@ -44,7 +44,7 @@ Disini ada 4 step utama:
 4. Hitung IP semesternya
 
 
-## 2.4. Perulangan
+## 2.4. Fungsi
 
 
 ![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20155014.png)
