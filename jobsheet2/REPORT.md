@@ -61,13 +61,13 @@ Disini ada 3 step utama:
   5. **Jelaskan bagaimana cara kerja method nilaiKinerja() dalam mengevaluasi kinerja mahasiswa, kriteria apa saja yang digunakan untuk menentukan nilai kinerja tersebut, dan apa yang dikembalikan (di-return-kan) oleh method nilaiKinerja() tersebut?**
   - Method `nilaiKinerja()`Mengambil nilai dari `ipk` lalu mengecek apakah `(ipk <= 4.0 && ipk >= 0.0)` jika tidak maka akan mereturn `"IPK tidak valid. Harus antara 0.0 dan 4.0"` jika iya maka akan melanjutkan pengecekan nilai ipk masuk dikategori mana, dimulai dari kategori `(ipk >= 3.5)` sampai `(ipk < 2.0)` , lalu akan mereturn sesuai dari ketentuan masing masing kategori seperti kategori `(ipk >= 3.5)` mereturn `"Kinerja sangat baik"` . 
 6. **Commit dan push kode program ke Github**
- ![Screenshot](Screenshot%202025-02-19%20104915.png)
+ ![Screenshot](Screenshot_2025-02-19_104915.png)
 	
 ***
 ## 2.2 Percobaan 2: Instansiasi Object, serta Mengakses   Atribut dan Method
 
 
- ![Screenshot](Screenshot%202025-02-19%20112051.png)	
+ ![Screenshot](Screenshot_2025-02-19_112051.png)	
 ***
 **Penjelesan singkat:** 
 Disini ada 5 step utama: 
@@ -94,7 +94,7 @@ Disini ada 5 step utama:
  ***
 ## 2.3 Membuat Konstruktor
 
- ![Screenshot](Screenshot%202025-02-19%20115952.png)
+ ![Screenshot](Screenshot_2025-02-19_115952.png)
 
 ***
 **Penjelesan singkat:** 
@@ -137,12 +137,12 @@ Disini ada 5 step utama:
          mhsNabilHaniefMafazi.tampilkanInformasi();
 
 6. **Commit dan push kode program ke Github**
- ![Screenshot](Screenshot%202025-02-19%20115900.png)
+ ![Screenshot](Screenshot_2025-02-19_115900.png)
 	
 ***
 ## Tugas 1
 
- ![Screenshot](Screenshot%202025-02-19%20131313.png)
+ ![Screenshot](Screenshot_2025-02-19_131313.png)
 
 ***
 **Penjelesan singkat:** 
@@ -172,7 +172,7 @@ Disini ada 7 step utama:
 7. **Menampilkan hasil**
  ***
 ## Tugas 2
- ![Screenshot](Screenshot%202025-02-19%20133842.png)
+ ![Screenshot](Screenshot_2025-02-19_133842.png)
 
 ***
 **Penjelesan singkat:** 
@@ -202,7 +202,7 @@ Disini ada 7 step utama:
 6. **Memanggil method pakai konstruktor**
 7. **Menampilkan hasil**
 8. **Commit dan push ke github**
- ![Screenshot](Screenshot%202025-02-19%20134841.png)
+ ![Screenshot](Screenshot_2025-02-19_134841.png)
  ***
 ## Terima Kasih :)
 
