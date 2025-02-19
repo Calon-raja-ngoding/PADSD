@@ -8,8 +8,7 @@ public class tugasJobsheet1_3 {
         sc.nextLine();
         int sks[] = new int[jumlahMK], semester[] = new int[jumlahMK];
         String namaMK[] = new String[jumlahMK], 
-        hariKuliah[] = new String[jumlahMK],
-        hari[] = {"senin","selasa","rabu","kamis","jumat","sabtu","minggu"};
+        hariKuliah[] = new String[jumlahMK];
 
         for(int i = 0; i < jumlahMK; i++){
             System.out.println("Mata Kuliah ke-" + (i+1));
@@ -38,6 +37,7 @@ public class tugasJobsheet1_3 {
             System.out.print("Masukkan menu : ");
             int menu = sc.nextInt();
             sc.nextLine();
+            boolean keluar = false;
 
             switch (menu) {
                 case 1:    
@@ -102,10 +102,23 @@ public class tugasJobsheet1_3 {
 
                     break;
                 
+                case 5 :
+                    System.out.println("==================");
+                    System.out.println("TERIMA KASIH :)   |");
+                    System.out.println("==================");
+                    keluar = true;
             
                 default:
+                    System.out.println("========================");
+                    System.out.println("menu tidak terdaftar    |");
+                    System.out.println("========================");
+
                     break;
             }
+            if (keluar == true) {
+                break;
+            }
+            sc.close();
         }
     }
     

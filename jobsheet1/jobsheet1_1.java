@@ -45,5 +45,6 @@ public class jobsheet1_1 {
         }else{
             System.out.println("LULUS");
         }
+        sc.close();
     }
 }

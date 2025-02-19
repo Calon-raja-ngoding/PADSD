@@ -47,6 +47,7 @@ public class jobsheet1_3 {
                 bobotNilai[i] = 0.0;
             }
             totalNilai += (bobotNilai[i] * bobotSKS[i]);
+            sc.close();
         }
         System.out.println("==============================");
         System.out.println("Tabel Nilai : ");

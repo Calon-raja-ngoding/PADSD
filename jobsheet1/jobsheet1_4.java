@@ -30,6 +30,7 @@ public class jobsheet1_4 {
             System.out.print("Masukkan angka dari menu : ");
             int menu = sc.nextInt();
             sc.nextLine();
+            boolean keluar = false;
 
             if (menu == 1) {
                 System.out.println("=======================");
@@ -50,11 +51,18 @@ public class jobsheet1_4 {
                 System.out.println("=======================");
                 tokoBunga[3] = menu2(tokoBunga[3], mati, jenisBunga);
             }else if (menu == 3) {
-                return;
+                System.out.println("==================");
+                System.out.println("TERIMA KASIH :)   |");
+                System.out.println("==================");
+                keluar = true;
             }else{
                 System.out.println("** inputan invalid **");
             }
+            if ( keluar == true) {
+                break;
+            }
         }
+        sc.close();
     }
     static void menu1(int[][] a, String[] b, int[] c,int d,int[] e ){
         System.out.println(" ==============================================================");

@@ -27,5 +27,6 @@ public class jobsheet1_2 {
                 }
             } 
         }
+        sc.close();
     }
 }

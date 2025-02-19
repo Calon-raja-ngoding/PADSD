@@ -28,5 +28,6 @@ public class tugasJobsheet1_1 {
         for(int i = 0; i < kota[index].length; i++){
             System.out.print(kota[index][i]);
         }
+        sc.close();
     }
 }
