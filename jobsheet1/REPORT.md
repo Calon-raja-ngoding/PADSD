@@ -10,7 +10,7 @@
 ## 2.1. Pemilihan
 
 
-![Screenshot](jobsheet1/img/Screenshot_2025-02-14_153313.png)
+![Screenshot](img/Screenshot_2025-02-14_153313.png)
 
 **Penjelesan singkat:** 
 Disini ada 4 step utama: 
@@ -23,7 +23,7 @@ Disini ada 4 step utama:
 ## 2.2. Perulangan
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20154049.png)
+![Screenshot](img/Screenshot%202025-02-14%20154049.png)
 
 **Penjelesan singkat:** 
 Disini ada 3 step utama: 

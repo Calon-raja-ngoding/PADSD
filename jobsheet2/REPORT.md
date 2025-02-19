@@ -172,7 +172,7 @@ Disini ada 7 step utama:
 7. **Menampilkan hasil**
  ***
 ## Tugas 2
- ![Screenshot](jobsheet2/img/Screenshot_2025-02-19_133842.png)
+ ![Screenshot](img/Screenshot_2025-02-19_133842.png)
 
 ***
 **Penjelesan singkat:** 
