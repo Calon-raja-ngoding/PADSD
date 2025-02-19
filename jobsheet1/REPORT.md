@@ -10,7 +10,7 @@
 ## 2.1. Pemilihan
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20153313.png)
+![Screenshot](jobsheet1/img/Screenshot_2025-02-14_153313.png)
 
 **Penjelesan singkat:** 
 Disini ada 4 step utama: 
