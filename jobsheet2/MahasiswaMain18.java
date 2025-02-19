@@ -14,5 +14,8 @@ public class MahasiswaMain18 {
         Mahasiswa18 mhs2 = new Mahasiswa18("Annisa Nabila", "2141720160", 3.25, "TI 2L");
         mhs2.updateIPK(3.30);
         mhs2.tampilkanInformasi();
+
+        Mahasiswa18 mhsNabilHaniefMafazi = new Mahasiswa18("Nabil Hanief Mafazi", "244107020114", 4.00, "TI-1H");
+        mhs2.tampilkanInformasi();
     }
 }
