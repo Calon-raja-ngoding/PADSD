@@ -34,7 +34,7 @@ Disini ada 3 step utama:
 ## 2.3. Array
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20154609.png)
+![Screenshot](img/Screenshot%202025-02-14%20154609.png)
 
 **Penjelesan singkat:** 
 Disini ada 4 step utama: 
@@ -47,7 +47,7 @@ Disini ada 4 step utama:
 ## 2.4. Fungsi
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20155014.png)
+![Screenshot](img/Screenshot%202025-02-14%20155014.png)
 
 **Penjelesan singkat:** 
 Disini ada 4 step utama: 
@@ -59,7 +59,7 @@ Disini ada 4 step utama:
 ## Tugas 1
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20155358.png)
+![Screenshot](img/Screenshot%202025-02-14%20155358.png)
 
 **Penjelesan singkat:** 
 Disini ada 3 step utama: 
@@ -70,7 +70,7 @@ Disini ada 3 step utama:
 ## Tugas 2
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20155713.png)
+![Screenshot](img/Screenshot%202025-02-14%20155713.png)
 
 **Penjelesan singkat:** 
 Disini ada 3 step utama: 
@@ -81,9 +81,9 @@ Disini ada 3 step utama:
 ## Tugas 3
 
 
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20201819.png)
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20201839.png)
-![Screenshot](jobsheet1/img/Screenshot%202025-02-14%20201851.png)
+![Screenshot](img/Screenshot%202025-02-14%20201819.png)
+![Screenshot](img/Screenshot%202025-02-14%20201839.png)
+![Screenshot](img/Screenshot%202025-02-14%20201851.png)
 
 **Penjelesan singkat:** 
 Disini ada 3 step utama: 
