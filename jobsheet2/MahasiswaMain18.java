@@ -16,6 +16,7 @@ public class MahasiswaMain18 {
         mhs2.tampilkanInformasi();
 
         Mahasiswa18 mhsNabilHaniefMafazi = new Mahasiswa18("Nabil Hanief Mafazi", "244107020114", 4.00, "TI-1H");
-        mhs2.tampilkanInformasi();
+        mhsNabilHaniefMafazi.tampilkanInformasi();
+        System.out.println(mhsNabilHaniefMafazi.nilaiKinerja());
     }
 }
