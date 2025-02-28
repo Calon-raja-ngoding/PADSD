@@ -10,7 +10,7 @@ public class DosenMain18 {
         dosen1.statusAktif = false;
         dosen1.tampilInformasi();
         dosen1.ubahKeahlian("Tidur");
-        dosen1.setStatus(true);
+        dosen1.setStatus(true); 
         dosen1.hitungMasaKerja(2025);
         dosen1.tampilInformasi();
 
