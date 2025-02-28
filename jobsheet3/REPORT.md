@@ -158,7 +158,8 @@ Disini ada 4 step utama:
 	    MataKuliah18[] arrayOfMataKuliah  =  new  MataKuliah18[jumlahMataKuliah];
 
 5. **Screenshot hasil akhir setelah dimodifikasi**
- ![Screenshot](/jobsheet3/img/Screenshot%202025-02-28%20102911.png)
+
+![Screenshot](/jobsheet3/img/Screenshot%202025-02-28%20102911.png)
 	
 ***
 ## Tugas 1
