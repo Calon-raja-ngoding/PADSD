@@ -210,7 +210,7 @@ Disini ada 7 step utama:
 4.  **Menampilkan informasi dosen yang user inginkan dengan cara memanggil method dari class `DataDosen18()` yang sesuai dengan informasi yang user inginkan**
 5. **Program akan berulang terus dari poin 3 sampai 4 diatas sampai user memilih keluar di pilihan menu**
 6. **Commit dan push ke github**
- ![Screenshot](Screenshot%202025-02-19%20134841.png)
+ ![Screenshot](/jobsheet3/img/Screenshot%202025-02-28%20104113.png)
  ***
 ## Terima Kasih :)
 
