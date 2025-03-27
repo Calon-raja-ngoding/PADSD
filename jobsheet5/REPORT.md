@@ -99,7 +99,7 @@ Disini ada 9 step utama:
 4. **Tarik tentang cara kerja method `pangkatBF()` dan `pangkatDC()`!**
 - Metode `pangkatBF()` menghitung pangkat dengan mengalikan nilai secara berulang sebanyak pangkatnya, sedangkan `pangkatDC()` menggunakan metode divide and conquer dengan membagi pangkat menjadi setengah, menghitungnya secara rekursif, lalu menggabungkan hasilnya melalui perkalian, sehingga lebih efisien dari segi waktu.
  ***
-## 3.4 Menghitung Sum Array dengan Algoritma Brute Force dan Divide and Conquer
+## 5.4 Menghitung Sum Array dengan Algoritma Brute Force dan Divide and Conquer
 
  ![Screenshot](/jobsheet5/img/Screenshot%202025-03-24%20231020.png)
 
@@ -220,6 +220,7 @@ Ini tempat di mana program akan dijalankan.
 Tutup `Scanner`, dan program sudah bisa dijalankan dengan fitur-fitur yang kamu buat.
 ***
 ## Terima Kasih :)
+
 
 
 
