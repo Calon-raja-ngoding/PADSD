@@ -44,7 +44,8 @@ Disini ada 3 step utama:
 
 
  ![Screenshot](/jobsheet7/img/Screenshot%202025-03-28%20142332.png)
-  ![Screenshot](/jobsheet7/img/Screenshot%202025-03-28%20142350.png)	
+ 
+![Screenshot](/jobsheet7/img/Screenshot%202025-03-28%20142350.png)	
 ***
 **Penjelesan singkat:** 
 Disini ada 2 step utama: 
@@ -95,7 +96,7 @@ Disini ada 2 step utama:
 ## Tugas 1
 
  ![Screenshot](/jobsheet7/img/Screenshot%202025-03-28%20175058.png)
- 
+
  ![Screenshot](/jobsheet7/img/Screenshot%202025-03-28%20175115.png)
 
 ***
