@@ -41,7 +41,7 @@ Disini ada 4 step utama:
 
 	    int  j  =  i  +  1; j  <  jumData; j++
 
- 3. **Pada Insertion sort , jelaskan maksud dari kondisi pada perulangan . 
+ 3. **Pada Insertion sort , jelaskan maksud dari kondisi pada perulangan .** 
 
 	     while (j  >=  0  &&  data[j] >  temp){
 
@@ -95,7 +95,7 @@ Disini ada 4 step utama:
 - c. Jika banyak data di dalam `listMhs` adalah 50, maka berapakali perulangan i akan berlangsung? Dan ada berapa Tahap bubble sort yang ditempuh?  
 	- Perulangan `i` berlangsung **49 kali** (`50 - 1`).
 	- Tahap (pass) Bubble Sort yang ditempuh juga **49 tahap**, karena setiap iterasi `i` disebut sebagai satu tahap pengurutan. 
- 2. **Modifikasi program diatas dimana data mahasiswa bersifat dinamis (inp	ut dari keyborad) yang terdiri dari nim, nama, kelas, dan ipk!**
+ 2. **Modifikasi program diatas dimana data mahasiswa bersifat dinamis (input dari keyborad) yang terdiri dari nim, nama, kelas, dan ipk!**
  ![Screenshot](/jobsheet6/img/Screenshot%202025-03-27%20211050.png)
   ![Screenshot](/jobsheet6/img/Screenshot%202025-03-27%20214153.png)
  ***
