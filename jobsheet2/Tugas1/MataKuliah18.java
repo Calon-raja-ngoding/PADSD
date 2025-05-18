@@ -1,5 +1,4 @@
-package Tugas1;
-
+package jobsheet2.Tugas1;
 public class MataKuliah18 {
     String kodeMK;
     String nama;
