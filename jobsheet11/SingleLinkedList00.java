@@ -141,7 +141,7 @@ public class SingleLinkedList00 {
             for(int i = 0; i < index - 1; i++){
                 temp = temp.next;
             }
-            temp. next = temp.next.next;
+            temp.next = temp.next.next;
             if (temp.next == null) {
                 tail = temp;
             }
