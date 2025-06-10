@@ -1,4 +1,4 @@
-package Tugas1;
+package jobsheet2.Tugas1;
 
 public class MataKuliahMain18 {
     public static void main(String[] args) {

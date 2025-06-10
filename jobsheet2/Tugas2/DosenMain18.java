@@ -1,4 +1,4 @@
-package Tugas2;
+package jobsheet2.Tugas2;
 
 public class DosenMain18 {
     public static void main(String[] args) {

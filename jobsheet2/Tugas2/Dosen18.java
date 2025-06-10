@@ -1,6 +1,4 @@
-package Tugas2;
-
-
+package jobsheet2.Tugas2;
 public class Dosen18 {
     String idDosen;
     String nama;
